@@ -6,16 +6,6 @@ The dataset can be found at <a href="https://drive.google.com/file/d/1vwWAvk6ZIS
 # Support
 There are many ways to encourage a coder - starring⭐️ the GitHub repos is just one.
 
-# Citing
-```ruby
-@article{yolov5fewshot,
-	title={An object detection‑based few‑shot learning approach for multimedia quality assessment},
-	author={R. Chatterjee and A. Chatterjee and SK Hafizul and Khan, Muhammad Khurram},
-	journal={Multimedia Systems},
-	year={2022},
-	organization={Springer}
-}
-```
 
 # License 
 
