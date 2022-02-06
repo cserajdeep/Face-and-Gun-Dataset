@@ -3,6 +3,9 @@ The dataset may be used for human face and gun objects detection: <br>
 The dataset can be found at <a href="https://drive.google.com/file/d/1vwWAvk6ZISu_hJ5SaaCjEmMYPcd4k9h4/view?usp=sharing
 ">Download</a> <br>
 
+# Support
+There are many ways to encourage a coder - starring⭐️ the GitHub repos is just one.
+
 # Citing
 ```ruby
 @article{yolov5fewshot,
