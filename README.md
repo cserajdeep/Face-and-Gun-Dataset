@@ -8,6 +8,15 @@ There are many ways to encourage a coder - starring⭐️ the GitHub repos is ju
 
 # References
 ```
+@article{chatterjee2023deep,
+  title={A Deep Learning-based Efficient Firearms Monitoring Technique for Building Secure Smart Cities},
+  author={Chatterjee, Rajdeep and Chatterjee, Ankita and Pradhan, Manas Ranjan and Acharya, Biwaranjan and Choudhury, Tanupriya},
+  journal={IEEE Access},
+  year={2023},
+  publisher={IEEE}
+}
+```
+```
 @article{chatterjee2022object,
   title={An object detection-based few-shot learning approach for multimedia quality assessment},
   author={Chatterjee, Rajdeep and Chatterjee, Ankita and Islam, SK and Khan, Muhammad Khurram},
